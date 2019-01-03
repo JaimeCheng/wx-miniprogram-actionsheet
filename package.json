@@ -1,0 +1,24 @@
+{
+  "name": "wx-miniprogram-actionsheet",
+  "version": "1.0.0",
+  "description": "wechat miniprogram custom component actionsheet",
+  "main": "miniprogram_dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaimeCheng/wx-miniprogram-actionsheet.git"
+  },
+  "keywords": [
+    "miniprogram",
+    "custom-component",
+    "actionsheet"
+  ],
+  "author": "JaimeCheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JaimeCheng/wx-miniprogram-actionsheet/issues"
+  },
+  "homepage": "https://github.com/JaimeCheng/wx-miniprogram-actionsheet#readme"
+}
