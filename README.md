@@ -36,7 +36,8 @@ $ npm i wx-miniprogram-actionsheet
 
 ## 使用
 **wxml文件中**
-```
+
+```html
 <action-sheet actionShow="{{showStatus}}" closeText="关闭" bind:actionHide="onActionHide">
   <!-- slot ActionSheet 菜单项 只能是button 或 navigator -->
   <navigator url="/pages/index/index">我是navigator: 回首页</navigator>
@@ -45,6 +46,7 @@ $ npm i wx-miniprogram-actionsheet
 </action-sheet>
 ```
 **js文件中**
+
 ```js
 // 只列出核心代码
 Page({
