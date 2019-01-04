@@ -1,6 +1,8 @@
 # wx-miniprogram-actionsheet
 微信小程序自定义组件——底部菜单ActionSheet
 
+[![](https://img.shields.io/npm/dm/wx-miniprogram-actionsheet.svg?style=popout)](https://www.npmjs.com/package/wx-miniprogram-actionsheet)[![](https://img.shields.io/badge/dynamic/json.svg?label=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FJaimeCheng%2Fwx-miniprogram-actionsheet%2Fmaster%2Fpackage.json&query=version&colorB=blue&prefix=%20&suffix=%20)](https://www.npmjs.com/package/wx-miniprogram-actionsheet)
+
 **写这个自定义ActionSheet组件，和自定义modal一样，有些开放能力必须绑定在button上，而我们有时候又会有在底部上拉菜单中实现转发功能的需求，或者别的微信开放能力，小程序原生的ActionSheet依然无法实现，故此组件应运而生。**
 
 ## 安装
