@@ -62,9 +62,8 @@ Page({
 ```
 **菜单项写进`<action-sheet></action-sheet>`标签里即可，菜单项 只能是button 或 navigator。**
 
+​                                                                  ![action-sheet演示效果](https://ws3.sinaimg.cn/large/005z3BWwly1fyummhejmtg306j0bn1l1.gif)
 
-
-![action-sheet演示效果](https://ws3.sinaimg.cn/large/005z3BWwly1fyummhejmtg306j0bn1l1.gif)
 
 ## 参数
 |    属性    | 数据类型 |        说明        | 选项 | 默认值 |
