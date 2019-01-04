@@ -60,8 +60,9 @@ Page({
   }
 })
 ```
-菜单项写进`<action-sheet></action-sheet>`标签里即可，菜单项 只能是button 或 navigator。
-![action-sheet效果](https://upload-images.jianshu.io/upload_images/3981371-d235e85bfb9cf211.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+**菜单项写进`<action-sheet></action-sheet>`标签里即可，菜单项 只能是button 或 navigator。**
+
+![action-sheet演示效果](https://wx1.sinaimg.cn/large/005z3BWwly1fyumh7lzvpg306j0bn1l1.gif)
 
 ## 参数
 |    属性    | 数据类型 |        说明        | 选项 | 默认值 |
