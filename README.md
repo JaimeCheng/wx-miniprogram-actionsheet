@@ -62,7 +62,7 @@ Page({
 ```
 **菜单项写进`<action-sheet></action-sheet>`标签里即可，菜单项 只能是button 或 navigator。**
 
-![演示效果](https://ws3.sinaimg.cn/large/005z3BWwly1fyumv2uolhg306j0bndji.gif)
+![演示效果](demo.gif)
 
 
 ## 参数
