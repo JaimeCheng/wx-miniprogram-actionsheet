@@ -1,6 +1,6 @@
 {
   "name": "wx-miniprogram-actionsheet",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "wechat miniprogram custom component actionsheet",
   "main": "miniprogram_dist/index.js",
   "scripts": {
